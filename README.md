@@ -1,4 +1,4 @@
-# analisis-ventas-python
+# Analisis-ventas-python
 Análisis exploratorio de ventas utilizando Python y Pandas.
 
 ## Descripción del proyecto
