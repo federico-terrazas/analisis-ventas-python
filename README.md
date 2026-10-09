@@ -39,7 +39,7 @@ El proyecto busca aplicar conceptos de análisis de datos y desarrollar habilida
 
 1. Descargar los archivos de este repositorio.
 2. Abrir el notebook en [Google Colab](https://colab.research.google.com/).
-3. Cargar el archivo `Ventas.csv` cuando sea necesario.
+3. Cargar el archivo `Ventas.csv`,`clientes`,`marketing` cuando sea necesario.
 4. Ejecutar las celdas del notebook en orden.
 
 ## Autor
