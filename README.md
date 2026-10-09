@@ -32,7 +32,8 @@ El proyecto busca aplicar conceptos de análisis de datos y desarrollar habilida
 ## Archivos
 
 - `analisis_ventas.ipynb`: notebook con el código y el desarrollo del análisis.
-- `Ventas.csv`: conjunto de datos utilizado para realizar el análisis.
+- `Ventas.csv`,`clientes`,`marketing`: conjunto de datos utilizado para realizar el análisis.
+
 
 ## Cómo ejecutar el proyecto
 
